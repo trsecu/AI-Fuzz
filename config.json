@@ -1,0 +1,17 @@
+{
+    "llm_provider": "gemini",
+    "api_keys": {
+        "gemini": ""
+    },
+    "fuzzing": {
+        "max_paths": 20,
+        "timeout": 5,
+        "max_retries": 3,
+        "concurrent_requests": 10,
+        "user_agent": "AI-Fuzz/1.0"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "ai_fuzz.log"
+    }
+} 
