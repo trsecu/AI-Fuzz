@@ -20,8 +20,8 @@ AI-Fuzz is an intelligent web path fuzzing tool that uses AI to generate relevan
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-fuzz.git
-cd ai-fuzz
+git clone https://github.com/trsecu/AI-Fuzz.git
+cd AI-Fuzz
 ```
 
 2. Run the setup script:
