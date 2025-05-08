@@ -2,13 +2,7 @@
 
 AI-Fuzz is an intelligent web path fuzzing tool that uses AI to generate relevant paths for security testing. It combines WhatWeb for technology detection and Google's Gemini AI for smart path generation.
 
-## Features
 
-- Technology detection using WhatWeb
-- AI-powered path generation using Google's Gemini
-- Concurrent URL fuzzing
-- Detailed results with status codes
-- JSON output for further analysis
 
 ## Prerequisites
 
